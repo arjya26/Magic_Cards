@@ -1,1 +1,2 @@
 # Magic_Cards
+This project is a demonstration of "expanding cards" functionality. It consists of a set of cards with background images and headings. When a user clicks on a card, it expands to a larger size with a smooth transition effect. The project uses HTML, CSS, and JavaScript to achieve this functionality. The CSS is used to style the cards and apply transitions, while the JavaScript is used to add event listeners and toggle the "active" class on the clicked card.
